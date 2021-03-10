@@ -21,6 +21,8 @@
     </a>
 </p>
 
+# [Datasets](https://github.com/huggingface/datasets.git)
+
 `🤗Datasets` is a lightweight library providing **two** main features:
 
 - **one-line dataloaders for many public datasets**: one liners to download and pre-process any of the ![number of datasets](https://img.shields.io/endpoint?url=https://huggingface.co/api/shields/datasets&color=brightgreen) major public datasets (in 467 languages and dialects!) provided on the [HuggingFace Datasets Hub](https://huggingface.co/datasets). With a simple command like `squad_dataset = load_datasets("squad")`, get any of these datasets ready to use in a dataloader for training/evaluating a ML model (Numpy/Pandas/PyTorch/TensorFlow/JAX),
